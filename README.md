@@ -1,4 +1,4 @@
-# xylophone
+# Harmonica
 
 A new Flutter application.
 
